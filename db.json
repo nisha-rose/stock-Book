@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Nisha",
+      "password": "nisha@123",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "username": "Dollet",
+      "password": "dollet@123",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "username": "Johnson",
+      "password": "johnson@123",
+      "role": "admin"
+    },
+    {
+      "username": "rose",
+      "password": "rose1234",
+      "role": "user",
+      "email": "rose@gmail.com",
+      "id": 4
+    },
+    {
+      "username": "nyjil",
+      "password": "nyjil1234",
+      "role": "user",
+      "email": "nyjil@gmail.com",
+      "id": 5
+    },
+    {
+      "username": "nelson",
+      "password": "nelson1234",
+      "role": "user",
+      "email": "nelson@gmail.com",
+      "id": 6
+    },
+    {
+      "username": "nelson",
+      "password": "nelson1234",
+      "role": "user",
+      "email": "nelson@gmail.com",
+      "id": 7
+    },
+    {
+      "username": "nelson",
+      "password": "nelson1234",
+      "role": "user",
+      "email": "nelson@gmail.com",
+      "id": 8
+    },
+    {
+      "username": "june",
+      "password": "june1234",
+      "role": "user",
+      "email": "june@gmail.com",
+      "id": 9
+    },
+    {
+      "username": "shifo",
+      "password": "shifo@123",
+      "role": "user",
+      "email": "shifo@gmail.com",
+      "id": 10
+    },
+    {
+      "username": "shifo",
+      "password": "shifo@123",
+      "role": "user",
+      "email": "shifo@gmail.com",
+      "id": 11
+    },
+    {
+      "username": "purple",
+      "password": "purple@purple",
+      "role": "user",
+      "email": "purple@purple.com",
+      "id": 12
+    },
+    {
+      "username": "blue",
+      "password": "blue@blue",
+      "role": "user",
+      "email": "blue@blue.com",
+      "id": 13
+    }
+  ],
+  "rawMaterials": [
+    {
+      "id": "1",
+      "materialName": "KRAFT PAPER 80 GSM",
+      "quantity": "5"
+    },
+    {
+      "id": "2",
+      "materialName": "PRINTING PAPER 44 GSM",
+      "quantity": "6"
+    },
+    {
+      "id": "3",
+      "materialName": "THERMAL PAPER 44GSM",
+      "quantity": "7"
+    },
+    {
+      "id": "4",
+      "materialName": "PAPER CORE",
+      "quantity": "30"
+    },
+    {
+      "id": "5",
+      "materialName": "PLASTIC CORE",
+      "quantity": "30"
+    },
+    {
+      "id": "6",
+      "materialName": "PACKING BOX",
+      "quantity": "50"
+    },
+    {
+      "id": "7",
+      "materialName": "PACKING CLIPS",
+      "quantity": "10"
+    },
+    {
+      "id": "8",
+      "materialName": "PACKING STRAP",
+      "quantity": "5"
+    }
+  ]
+}
