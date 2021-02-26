@@ -16,7 +16,8 @@ export function Login(data) {
               dispatch(LoginMe(true, data.username))
             }
             else {
-              dispatch(LoginMe(false, data.username))
+              dispatch(LoginMe(false, data.username));
+              alert("invalid user name and password");
             }
           })
     }

@@ -47,21 +47,22 @@ body {
     color: #fff;
     margin-bottom: 24px;
 }
-/* Footer Styling */
 
-body {
-    /* Margin bottom by footer height */
-    margin-bottom: 60px;
-    background-color: #faf8f8;
+.header{
+    background-color: #2e72a2;
+ 
 }
-
+/* Footer Styling */
 .footer {
     position: fixed;
-    bottom: 10px;
+    bottom: 0px;
     width: 100%;
-    /* Set the fixed height of the footer here */
-    background-color: #e7e7e7;
+    height: 75px;
+    background-color: #2e72a2;
     border-top: 1px solid #ddd;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
 }
 
 footer .text-muted {
@@ -130,7 +131,40 @@ body {
     background: none !important;
     border: none;
     padding: 0 !important;
-    color: #9d9d9d ;
+    color: white ;
     text-decoration: underline;
     cursor: pointer;
 }
+
+.headertxt{
+    color: white ;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+
+a.nav-item.nav-link  {
+    color: black;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: #2196f3;
+    font-weight: 700;
+    color: white;
+}
+
+.table-edit-btn{
+    margin:0px 0px 0px 0px;
+    height:40px;
+    width:max-content;
+}
+
+.table-edit-btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+  .table-header-container{
+      margin-bottom: 0px;
+      color:white; 
+  }
